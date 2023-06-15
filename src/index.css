@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (min-width:425px) and (max-width:768px) {
+    .details {
+        flex-direction: column;
+    }
+
+    .card {
+        font-size: 80%;
+    }
+
+    .card-image {
+        width: 6rem;
+    }
+
+    .mem-icon {
+        width: 1rem;
+    }
+
+    .title {
+        font-size: 110%;
+    }
+
+    .sub-title {
+        font-size: 90%;
+    }
+}
+
+@media (min-width:320px) and (max-width:425px) {
+    .details {
+        flex-direction: column;
+    }
+
+    .card {
+        font-size: 60%;
+    }
+
+    .card-image {
+        width: 4rem;
+    }
+
+    .mem-icon {
+        width: 0.8rem;
+    }
+
+    .title {
+        font-size: 100%;
+    }
+
+    .sub-title {
+        font-size: 70%;
+    }
+}
