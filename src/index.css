@@ -42,7 +42,7 @@
     }
 
     .mem-icon {
-        width: 0.8rem;
+        width: 0.6rem;
     }
 
     .title {
@@ -51,5 +51,12 @@
 
     .sub-title {
         font-size: 70%;
+    }
+    .footer{
+        font-size: 80%;
+    }
+    .namefooter{
+        
+        font-size: 110%;
     }
 }
