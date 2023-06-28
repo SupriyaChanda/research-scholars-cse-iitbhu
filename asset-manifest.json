@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/research-scholars-cse-iitbhu/static/css/main.77b2f3f6.css",
-    "main.js": "/research-scholars-cse-iitbhu/static/js/main.edbd4a36.js",
+    "main.css": "/research-scholars-cse-iitbhu/static/css/main.2db4502d.css",
+    "main.js": "/research-scholars-cse-iitbhu/static/js/main.710ec982.js",
     "static/media/Supriya_Chanda.jpg": "/research-scholars-cse-iitbhu/static/media/Supriya_Chanda.b02796dc6524f319c9b6.jpg",
     "static/media/Ramakant_Kumar.jpg": "/research-scholars-cse-iitbhu/static/media/Ramakant_Kumar.a51986cce11d4f829c23.jpg",
     "static/media/Tribikram_Pradhan.jpg": "/research-scholars-cse-iitbhu/static/media/Tribikram_Pradhan.c6e5f7279c26f6a31ef2.jpg",
     "index.html": "/research-scholars-cse-iitbhu/index.html",
-    "main.77b2f3f6.css.map": "/research-scholars-cse-iitbhu/static/css/main.77b2f3f6.css.map",
-    "main.edbd4a36.js.map": "/research-scholars-cse-iitbhu/static/js/main.edbd4a36.js.map"
+    "main.2db4502d.css.map": "/research-scholars-cse-iitbhu/static/css/main.2db4502d.css.map",
+    "main.710ec982.js.map": "/research-scholars-cse-iitbhu/static/js/main.710ec982.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b2f3f6.css",
-    "static/js/main.edbd4a36.js"
+    "static/css/main.2db4502d.css",
+    "static/js/main.710ec982.js"
   ]
 }
