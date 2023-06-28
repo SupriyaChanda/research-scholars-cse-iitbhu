@@ -58,7 +58,7 @@ const alumni=[
 function App() {
   return (
     <div>
-      <div className='title text-center text-[160%] text-[#67b0d1] py-[2%] font-bold'>
+      <div className='title text-center sticky top-0 right-0 left-0  text-[160%] text-[#67b0d1] py-[2%] font-bold'>
        Research Scholars, Dept of CSE, IIT BHU
       </div>
     <div className='member-rex-box bg-[#67b0d1] flex flex-col justify-center items-center w-full px-[5%] '>
