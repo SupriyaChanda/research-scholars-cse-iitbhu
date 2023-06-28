@@ -3,6 +3,7 @@ import './App.css';
 import { Card } from './components/Card';
 import Tribikram_Pradhan from "./assets/Tribikram_Pradhan.jpg"
 import Supriya_Chanda from "./assets/Supriya_Chanda.jpg"
+<<<<<<< HEAD
 
 const current=[
   
@@ -17,6 +18,21 @@ const current=[
     researchgate:"https://www.researchgate.net/profile/Supriya-Chanda",
     dplb:"https://dblp.org/pid/280/9309.html",
     linkedin:"https://www.linkedin.com/in/supriyachandacs/",
+=======
+const current=[
+  
+  {
+      name:"Mr. Supriya Chanda",
+      image:Supriya_Chanda,
+      desg:"Research Scholar",
+      supervisor:"Dr. Sukomal Pal",
+      title:"Test processing on code-mixed data",
+      year:"2020",
+      google:"https://scholar.google.com/citations?user=wB9WetAAAAAJ&hl=en",
+      researchgate:"https://www.researchgate.net/profile/Supriya-Chanda",
+      dplb:"https://dblp.org/pid/280/9309.html",
+      linkedin:"https://www.linkedin.com/in/supriyachandacs/",
+>>>>>>> 21bddacea1c3a22e1b717f184a66adce7b8629a6
       
   },
   
