@@ -3,6 +3,7 @@ import './App.css';
 import { Card } from './components/Card';
 import Tribikram_Pradhan from "./assets/Tribikram_Pradhan.jpg"
 import Supriya_Chanda from "./assets/Supriya_Chanda.jpg"
+import Ramakant_Kumar from "./assets/Ramakant_Kumar.jpg"
 
 const current=[
   
@@ -19,16 +20,16 @@ const current=[
     linkedin:"https://www.linkedin.com/in/supriyachandacs/",
   },
   {
-      name:"Dr. Tribikram Pradhan",
-      image:Tribikram_Pradhan,
-      desg:"Assistant Professor at Tezpur Central University",
-      supervisor:"Dr. Sukomal Pal",
-      title:"Scholarry Recommendation System",
+      name:"Mr. Ramakant Kumar",
+      image:Ramakant_Kumar,
+      desg:"Research Scholar",
+      supervisor:"Dr. Hari Prabhat Gupta",
+      title:"IoT and LoRA based application",
       year:"2020",
-      google:"https://scholar.google.co.in/citations?user=UBrLgeMAAAAJ&hl=en",
-      researchgate:"https://www.researchgate.net/profile/Tribikram-Pradhan",
-      dplb:"https://dblp.uni-trier.de/pid/168/3232.html",
-      linkedin:"https://www.linkedin.com/in/tribikram-pradhan-39a67290/",
+      google:"https://scholar.google.co.in/",
+      researchgate:"https://www.researchgate.net/profile/",
+      dplb:"https://dblp.uni-trier.de.html",
+      linkedin:"https://www.linkedin.com/in/",
       
   },
   
