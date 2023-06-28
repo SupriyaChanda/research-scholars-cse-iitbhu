@@ -17,9 +17,7 @@ const current=[
     researchgate:"https://www.researchgate.net/profile/Supriya-Chanda",
     dplb:"https://dblp.org/pid/280/9309.html",
     linkedin:"https://www.linkedin.com/in/supriyachandacs/",
-      
   },
-  
   {
       name:"Dr. Tribikram Pradhan",
       image:Tribikram_Pradhan,
