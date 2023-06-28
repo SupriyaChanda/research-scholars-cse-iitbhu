@@ -2,19 +2,21 @@
 import './App.css';
 import { Card } from './components/Card';
 import Tribikram_Pradhan from "./assets/Tribikram_Pradhan.jpg"
+import Supriya_Chanda from "./assets/Supriya_Chanda.jpg"
+
 const current=[
   
   {
-      name:"Dr. Tribikram Pradhan",
-      image:Tribikram_Pradhan,
-      desg:"Assistant Professor at Tezpur Central University",
-      supervisor:"Dr. Sukomal Pal",
-      title:"Scholarry Recommendation System ",
-      year:"2020",
-      google:"https://scholar.google.co.in/citations?user=UBrLgeMAAAAJ&hl=en",
-      researchgate:"https://www.researchgate.net/profile/Tribikram-Pradhan",
-      dplb:"https://dblp.uni-trier.de/pid/168/3232.html",
-      linkedin:"https://www.linkedin.com/in/tribikram-pradhan-39a67290/",
+    name:"Mr. Supriya Chanda",
+    image:Supriya_Chanda,
+    desg:"Research Scholar",
+    supervisor:"Dr. Sukomal Pal",
+    title:"Test processing on code-mixed data",
+    year:"2020",
+    google:"https://scholar.google.com/citations?user=wB9WetAAAAAJ&hl=en",
+    researchgate:"https://www.researchgate.net/profile/Supriya-Chanda",
+    dplb:"https://dblp.org/pid/280/9309.html",
+    linkedin:"https://www.linkedin.com/in/supriyachandacs/",
       
   },
   
