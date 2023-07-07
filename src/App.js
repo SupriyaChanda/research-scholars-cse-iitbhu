@@ -14,6 +14,7 @@ const current=[
     supervisor:"Dr. Sukomal Pal",
     title:"Test processing on code-mixed data",
     year:"2020",
+    url:"https://supriyachanda.github.io/profile/",
     google:"https://scholar.google.com/citations?user=wB9WetAAAAAJ&hl=en",
     researchgate:"https://www.researchgate.net/profile/Supriya-Chanda",
     dplb:"https://dblp.org/pid/280/9309.html",
@@ -70,7 +71,7 @@ function App() {
 
        <div className='flex flex-col w-full member-res '>
            {current.map(item => {
-                  return (<Card name={item.name} desg={item.desg} title={item.title} supervisor={item.supervisor} image={item.image}  email={item.email} year={item.year}  google={item.google} dplb={item.dplb} researchgate={item.researchgate} linkedin={item.linkedin}   />)
+                  return (<Card name={item.name} url={item.url} desg={item.desg} title={item.title} supervisor={item.supervisor} image={item.image}  email={item.email} year={item.year}  google={item.google} dplb={item.dplb} researchgate={item.researchgate} linkedin={item.linkedin}   />)
                 })}
               </div>
             </div>

@@ -14,11 +14,11 @@ export const Card = (props) => {
         <div className='card  flex justify-start items-center tracking-wider text-[#666666] font-serif rounded-2xl bg-white my-[1%]  p-[1%] '>
             <div className='card-image  w-[7rem] flex-shrink-0'><img src={props.image} className='rounded-full member-res-card-image w-32' alt="" /></div>
             <div className=' flex flex-col  px-[2%] py-[1%] w-full'>
-                <div className='mb-[1%]'>
+                <a href={props.url} className='mb-[1%]'>
                     <span className=' font-sans  font-bold tracking-widest text-black'>{props.name},
                     </span>
                     <span className='ml-[1%] whitespace-normal' > {props.desg}</span>
-                </div>
+                </a>
                 <div className='details flex w-full'>
                     <div className='flex w-1/4'>
                         <div className='flex items-center justify-center'>
